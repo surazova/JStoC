@@ -1,6 +1,5 @@
 #include <cs50.h>
 #include <stdio.h>
-#include <string.h>
 #include <ctype.h>
 
 int checkPrime(int);
@@ -41,4 +40,5 @@ int sumPrimes(int num)
     }
 
     return sum;
+
 }
