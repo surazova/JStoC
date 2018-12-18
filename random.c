@@ -12,3 +12,9 @@ int main(void)
         printf(" %d ", rand());
     return 0;
 }
+
+
+Create the following functions
+void random() // you need to add the correct parameters
+
+void randomArray() // take an int array as an agument and assign each element a random number.
